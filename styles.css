@@ -1,0 +1,103 @@
+.notes-content {
+    display: grid;
+    margin: 10px 0;
+}
+
+.notes-content span {
+    margin: auto 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.table-content {
+    width: 100%;
+}
+
+.td-1 {
+    width: 90%;
+    text-align: justify;
+}
+
+.td-2 {
+    width: 10%;
+    text-align: right;
+}
+
+.border-bot {
+    border-bottom: solid 1px;
+}
+
+.btn-dashboard {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.main-login {
+    width: 450px;
+    height: auto;
+    justify-content: center;
+    text-align: center;
+    border: solid 2px #e4e4e4;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.main-login form {
+    display: inline-block;
+    margin: auto;
+}
+
+.margin-top {
+    margin-top: 60px;
+}
+
+::placeholder {
+    font-size: 14px;
+}
+
+.span-daftar {
+    color: #0066ff;
+}
+
+.span-daftar:hover {
+    text-decoration: none;
+}
+
+.btn-login {
+    width: 100%;
+}
+
+.error-p {
+    color: #ff0000;
+    font-style: italic;
+}
+
+.col1 {
+    text-align: center;
+}
+.col2 {
+    border: solid 2px #000000;
+    text-align: center;
+}
+
+.col2 table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-main {
+    width: 100px;
+    height: auto;
+}
+
+.p-subtitle {
+    font-family: 'Pacifico', cursive;
+    font-size: 22px;
+}
+
+.p-title {
+    font-family: 'Oswald', sans-serif;
+    font-size: 32px;
+}
